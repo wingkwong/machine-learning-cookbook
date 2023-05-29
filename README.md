@@ -4,9 +4,9 @@ Welcome to the Machine Learning Cookbook! This roadmap will guide you through th
 
 ## Chapter 1: Introduction to Machine Learning
 
-- 1.1 Introduction to Machine Learning
-- 1.2 Importance and Applications of Machine Learning
-- 1.3 Types of Machine Learning
+- [1.1 Introduction to Machine Learning](chapter-01/01-introduction-to-machine-learning)
+- [1.2 Importance and Applications of Machine Learning](chapter-01/02-importance-and-applications-of-machine-learning)
+- [1.3 Types of Machine Learning](chapter-01/03-types-of-machine-learning)
 
 ## Chapter 2: Understanding Core Concepts
 
