@@ -7,7 +7,9 @@ Welcome to the Machine Learning Cookbook! This roadmap will guide you through th
 - 1.1 Introduction to Machine Learning
 - 1.2 Importance and Applications of Machine Learning
 - 1.3 Types of Machine Learning
-- 1.4 Supervised, Unsupervised, and Reinforcement Learning
+- 1.4 Supervised Learning
+- 1.5 Unsupervised Learning
+- 1.6 Reinforcement Learning
 
 ## Chapter 2: Understanding Core Concepts
 
