@@ -33,7 +33,7 @@ Welcome to the Machine Learning Cookbook! This roadmap will guide you through th
 - 4.3 K-Means Clustering
 - 4.4 Hierarchical Clustering
 - 4.5 Dimensionality Reduction
-- 4.6 Principal Component An alysis (PCA)
+- 4.6 Principal Component Analysis (PCA)
 - 4.7 Anomaly Detection
 
 ## Chapter 5: Reinforcement Learning 
