@@ -10,11 +10,11 @@ Welcome to the Machine Learning Cookbook! This roadmap will guide you through th
 
 ## Chapter 2: Understanding Core Concepts
 
-- 2.1 Data Representation and Feature Engineering
-- 2.2 Training and Testing Data
-- 2.3 Model Evaluation Metrics
-- 2.4 Overfitting and Underfitting
-- 2.5 Bias-Variance Tradeoff
+- [2.1 Data Representation and Feature Engineering](chapter-02/01-data-representation-and-feature-engineering)
+- [2.2 Training and Testing Data](chapter-02/02-training-and-testing-data)
+- [2.3 Model Evaluation Metrics](chapter-02/03-model-evaluation-metrics)
+- [2.4 Overfitting and Underfitting](chapter-02/04-overfitting-and-underfitting)
+- [2.5 Bias-Variance Tradeoff](chapter-02/05-bias-variance-tradeoff)
 
 ## Chapter 3: Supervised Learning
 
