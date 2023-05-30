@@ -1,6 +1,6 @@
 # Training and Testing Data
 
-In the field of machine learning, training and testing data play a crucial role in developing and evaluating models. The availability of high-quality data and its proper utilization are essential for building accurate and robust machine learning models. In this article, we will explore the importance of training and testing data, discuss best practices for data splitting, and highlight the significance of evaluation metrics.
+In the field of machine learning, training and testing data play a crucial role in developing and evaluating models. The availability of high-quality data and its proper utilization are essential for building accurate and robust machine learning models. We will explore the importance of training and testing data, discuss best practices for data splitting, and highlight the significance of evaluation metrics.
 
 ## Importance of Training Data
 
